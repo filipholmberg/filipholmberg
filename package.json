@@ -25,6 +25,9 @@
   "keywords": [
     "gatsby"
   ],
+  "resolutions": {
+    "minipass": "2.7.0"
+  },
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
